@@ -1,0 +1,18 @@
+total 64
+-rw-r--r-- 1 root root   12 Feb  9 17:17 *\'"Best School"'\*0*****:)
+-rw-r--r-- 1 root root   12 Feb  9 16:56 *\'"Best School"\'*0*****:)
+drwxr-xr-x 2 root root 4096 Feb  9 17:37 .
+drwxr-xr-x 6 root root 4096 Feb  9 16:56 ..
+-rwxr-xr-x 1 root root   33 Feb  9 16:56 0-hello_world
+-rwxr-xr-x 1 root root   28 Feb  9 16:56 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb  9 16:56 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb  9 16:56 3-twofiles
+-rwxr-xr-x 1 root root   35 Feb  9 16:56 4-lastlines
+-rwxr-xr-x 1 root root   35 Feb  9 16:56 5-firstlines
+-rwxr-xr-x 1 root root   40 Feb  9 16:56 6-third_line
+-rwxr-xr-x 1 root root  100 Feb  9 17:20 7-file
+-rwxr-xr-x 1 root root   36 Feb  9 17:37 8-cwd_state
+-rw-r--r-- 1 root root   36 Feb  9 16:56 README.md
+-rw-r--r-- 1 root root   12 Feb  9 17:21 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Feb  9 17:37 ls_cwd_content
+-rw-r--r-- 1 root root   12 Feb  9 16:56 tail.save
